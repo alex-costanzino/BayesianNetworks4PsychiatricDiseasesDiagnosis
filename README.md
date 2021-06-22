@@ -8,6 +8,8 @@ The projects is realized by:
 ## Contents
 * `BN_psychiatric-diseases.ipynb` is the main notebook;
 * `report.pdf` is the report file.
+* `network.png` the structure of the network:
+![network structure](./network.png)
 
 ## Main libraries
 * [pgmpy](https://pgmpy.org/) 0.1.13;
