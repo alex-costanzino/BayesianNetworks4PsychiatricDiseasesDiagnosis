@@ -1,4 +1,4 @@
-# BayesianNetworks4PsychiatricDiseasesDiagnosis
+# Bayesian networks for the diagnosis of psychiatric diseases
 The repository contains the project realized for the *FAIKR - Mod. 3* course of the [Master's degree in Artificial Intelligence](https://corsi.unibo.it/2cycle/artificial-intelligence), at Alma Mater Studiorum, University of Bologna.
 
 The projects is realized by:
